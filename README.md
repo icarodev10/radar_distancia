@@ -4,7 +4,7 @@ Um radar bidimensional em tempo real inspirado em painéis de sonar e telemetria
 
 ## DEMO 📸:
 
-
+https://github.com/user-attachments/assets/2fc10e39-456b-46ff-863e-22c8d3ca1a8a
 
 ## 🕹️ O Projeto
 O sistema utiliza um Arduino como unidade de controle central para orquestrar o "pescoço" mecânico (Servo Motor) e os "olhos" (Sensor HC-SR04). O hardware realiza a varredura contínua do ambiente e transmite dados em coordenadas polares (Ângulo e Distância) via comunicação Serial. 
